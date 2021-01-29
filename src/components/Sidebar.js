@@ -17,7 +17,7 @@ function Sidebar() {
 
    
         const handleEmailMe = () => {
-            window.open("mailto:bhanuprathap@gmail.com")
+            window.open("mailto:bhanuprathap2000@gmail.com")
         }
 
     const sidebar_variant = {

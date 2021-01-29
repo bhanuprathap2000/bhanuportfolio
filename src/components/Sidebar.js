@@ -12,8 +12,8 @@ function Sidebar() {
     const facebookurl="https://www.facebook.com/bhanu.katikala/";
     const instaurl="https://www.instagram.com/glenmaxprathap/?hl=en";
     const githuburl="https://github.com/bhanuprathap2000";
-    const bhanuresume="https://www.overleaf.com/download/project/6008613785e809e4998e176c/build/1774d3b8edb-17b3dc87a648fc7c/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n1-c-nnz9&popupDownload=true";
-    
+    const bhanuresume="https://www.overleaf.com/read/smjzgqbvpckq";
+
 
 
    

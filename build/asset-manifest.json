@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/bhanuportfolio/static/css/main.81accecf.chunk.css",
+    "main.js": "/bhanuportfolio/static/js/main.389a41fb.chunk.js",
+    "main.js.map": "/bhanuportfolio/static/js/main.389a41fb.chunk.js.map",
+    "runtime-main.js": "/bhanuportfolio/static/js/runtime-main.22a5c079.js",
+    "runtime-main.js.map": "/bhanuportfolio/static/js/runtime-main.22a5c079.js.map",
+    "static/js/2.e49888b6.chunk.js": "/bhanuportfolio/static/js/2.e49888b6.chunk.js",
+    "static/js/2.e49888b6.chunk.js.map": "/bhanuportfolio/static/js/2.e49888b6.chunk.js.map",
+    "index.html": "/bhanuportfolio/index.html",
+    "precache-manifest.cc5a46cb7096af46159037a24bc09af8.js": "/bhanuportfolio/precache-manifest.cc5a46cb7096af46159037a24bc09af8.js",
+    "service-worker.js": "/bhanuportfolio/service-worker.js",
+    "static/css/main.81accecf.chunk.css.map": "/bhanuportfolio/static/css/main.81accecf.chunk.css.map",
+    "static/js/2.e49888b6.chunk.js.LICENSE.txt": "/bhanuportfolio/static/js/2.e49888b6.chunk.js.LICENSE.txt",
+    "static/media/algo.svg": "/bhanuportfolio/static/media/algo.12786bc7.svg",
+    "static/media/api.svg": "/bhanuportfolio/static/media/api.406f6ef2.svg",
+    "static/media/backend.svg": "/bhanuportfolio/static/media/backend.306ae54d.svg",
+    "static/media/bhanu Prathap.jpg": "/bhanuportfolio/static/media/bhanu Prathap.17444c3f.jpg",
+    "static/media/circuit.png": "/bhanuportfolio/static/media/circuit.24bf224a.png",
+    "static/media/computer.svg": "/bhanuportfolio/static/media/computer.16d20bbc.svg",
+    "static/media/facebook.svg": "/bhanuportfolio/static/media/facebook.f9de737f.svg",
+    "static/media/github.svg": "/bhanuportfolio/static/media/github.2c472603.svg",
+    "static/media/html5.svg": "/bhanuportfolio/static/media/html5.99325d4e.svg",
+    "static/media/instagram.svg": "/bhanuportfolio/static/media/instagram.bb5903db.svg",
+    "static/media/javascript.svg": "/bhanuportfolio/static/media/javascript.05dba317.svg",
+    "static/media/mightycoder.svg": "/bhanuportfolio/static/media/mightycoder.a13311a3.svg",
+    "static/media/pin.svg": "/bhanuportfolio/static/media/pin.9aa92c21.svg",
+    "static/media/puzzle.svg": "/bhanuportfolio/static/media/puzzle.cdfaf911.svg",
+    "static/media/python.svg": "/bhanuportfolio/static/media/python.e2905a88.svg",
+    "static/media/react.svg": "/bhanuportfolio/static/media/react.9e188349.svg",
+    "static/media/repair.svg": "/bhanuportfolio/static/media/repair.37257631.svg",
+    "static/media/resume.pdf": "/bhanuportfolio/static/media/resume.2942bfab.pdf",
+    "static/media/tie.svg": "/bhanuportfolio/static/media/tie.d8c6f553.svg",
+    "static/media/urlshortener.png": "/bhanuportfolio/static/media/urlshortener.714446c0.png",
+    "static/media/weatherapp.png": "/bhanuportfolio/static/media/weatherapp.035a7336.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22a5c079.js",
+    "static/js/2.e49888b6.chunk.js",
+    "static/css/main.81accecf.chunk.css",
+    "static/js/main.389a41fb.chunk.js"
+  ]
+}

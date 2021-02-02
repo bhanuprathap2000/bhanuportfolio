@@ -39,6 +39,7 @@ const Projects = () => {
                 <div onClick={() => handleFilterCategory('mongoDB')}>MongoDB</div>
                 <div onClick={() => handleFilterCategory('node.js')}>Node</div>
                 <div onClick={() => handleFilterCategory('vanilla')}>Vanilla</div>
+                <div onClick={() => handleFilterCategory('python')}>Python</div>
             </div>
             <div className="row">
 

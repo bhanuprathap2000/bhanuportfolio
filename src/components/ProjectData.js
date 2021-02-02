@@ -27,7 +27,7 @@ const data_projects = [
     {
         name: 'Customer Book',
         image: CustomerBook,
-        deployed_url: '#',
+        deployed_url: 'https://github.com/bhanuprathap2000/customerbook',
         github_url: 'https://github.com/bhanuprathap2000/customerbook',
         category: ['node.js','mongoDB']
     },

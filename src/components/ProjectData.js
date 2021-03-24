@@ -52,7 +52,7 @@ const data_projects = [
         image: githubfinder,
         deployed_url: 'https://githubuserprofilesearch.netlify.app/',
         github_url: 'https://github.com/bhanuprathap2000/githubusers',
-        category: ['React']
+        category: ['react.js']
     }
 ]
 

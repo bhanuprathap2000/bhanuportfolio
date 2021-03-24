@@ -3,6 +3,7 @@ import UrlShortener from "../assets/projects_images/urlshortener.png"
 import CustomerBook from "../assets/projects_images/customerbook.png"
 import indexcal from "../assets/projects_images/indexcal.png"
 import randompassword from "../assets/projects_images/randompassword.png"
+import githubfinder from "../assets/projects_images/githubfinder.png"
 
 const data_projects = [
     
@@ -45,6 +46,13 @@ const data_projects = [
         deployed_url: 'http://bhanuprathap.pythonanywhere.com/',
         github_url: 'https://github.com/bhanuprathap2000/randompasswordgen',
         category: ['python']
+    },
+    {
+        name: 'Github Profile Finder',
+        image: githubfinder,
+        deployed_url: 'https://githubuserprofilesearch.netlify.app/',
+        github_url: 'https://github.com/bhanuprathap2000/githubusers',
+        category: ['react']
     }
 ]
 

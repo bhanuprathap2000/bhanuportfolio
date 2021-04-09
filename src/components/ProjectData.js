@@ -43,7 +43,7 @@ const data_projects = [
     {
         name: 'Random Password Generator',
         image: randompassword,
-        deployed_url: 'http://bhanuprathap.pythonanywhere.com/',
+        deployed_url: 'https://random-password-generatorapp.herokuapp.com/',
         github_url: 'https://github.com/bhanuprathap2000/randompasswordgen',
         category: ['python']
     },

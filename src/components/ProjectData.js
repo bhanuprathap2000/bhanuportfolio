@@ -6,7 +6,7 @@ import randompassword from "../assets/projects_images/randompassword.png"
 import githubfinder from "../assets/projects_images/githubfinder.png"
 import quoteGenerator from '../assets/projects_images/quotegenerator.png'
 import infiniteScroll from '../assets/projects_images/infiniteScroll.png'
-import studentRegistration from '../assets/projects_images/studentRegistration.png'
+import studentRegistration from '../assets/projects_images/studentregistration.png'
 const data_projects = [
     
 

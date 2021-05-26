@@ -12,7 +12,7 @@ function Sidebar() {
     const facebookurl="https://www.facebook.com/bhanu.katikala/";
     const instaurl="https://www.instagram.com/glenmaxprathap/?hl=en";
     const githuburl="https://github.com/bhanuprathap2000";
-    const bhanuresume="https://drive.google.com/file/d/1060kZzLov9sea3d_4raFkE-DDu2FInV5/view?usp=sharing";
+    const bhanuresume="https://drive.google.com/file/d/1zYxh39cjdXySoxeojM97A_eLqmzmQ5EF/view?usp=sharing";
 
 
 

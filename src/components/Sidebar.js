@@ -49,7 +49,7 @@ function Sidebar() {
            <div className="sidebar__item sidebar__tag">Web Developer</div>
            </div>
            
-           <a  href={bhanuresume}>
+           <a target='_blank' href={bhanuresume}>
                <div className="sidebar__item sidebar__resume">
                    <img src={tie} alt=""className="sidebar__icon" />Download Resume
                </div>
